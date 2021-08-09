@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shante</h1>
-<h3 align="center">A curious software engineer from USA in Japan</h3>
+<h1 align="center">Hi 👋, I'm Shante! </h1>
+<h3 align="center">A curious software engineer from USA in Osaka, Japan</h3>
 
 - 🔭 I’m currently working on **Inventory Management Project**
 
