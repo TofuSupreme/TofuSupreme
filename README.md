@@ -1,4 +1,4 @@
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover")
+![TofuSupreme](/header.png "Nice to meet you!")
 <h1 align="center">Hi 👋, I'm Shante! </h1>
 <h3 align="center">A curious software engineer from USA in Osaka, Japan</h3>
 
