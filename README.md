@@ -1,5 +1,5 @@
 ![TofuSupreme](/header.png "Nice to meet you!")
-<!-- <h1 align="center">Hi 👋, I'm Shante! </h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Shante J! </h1> -->
 <h3 align="center">A budding software engineer from USA in Osaka, Japan</h3>
 
 - 🔭 Currently working on **Various projects ** using:![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
