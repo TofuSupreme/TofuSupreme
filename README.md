@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shante</h1>
-<h3 align="center">I'm a Web Developer (Full-stack) in Japan</h3>
+<h3 align="center">I'm a Web Developer (FrontEnd) in Japan</h3>
 
 - 🌱 I’m currently learning **React.js**
 
