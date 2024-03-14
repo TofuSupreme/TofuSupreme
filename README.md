@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shante</h1>
-<h3 align="center">I'm a data analyst with a side of web development in Japan</h3>
+<h3 align="center">I'm a Computer Science student, Web Development Graduate, and Google Data Analytics Certificate holder</h3>
 
-- 🌱 I’m currently learning **MySQL, Tableau, and Python**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
